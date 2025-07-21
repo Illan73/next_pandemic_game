@@ -1,4 +1,5 @@
 ## Reference: @falcon2025nextpandemic
+📄 [Falcon Report: Next Pandemic – Full Text](./falcon_next_pandemic_report.md)
 
 **Title:** Next pandemic – What are the chances and which virus is more likely to cause it?  
 **Source:** Falcon – Deep Search, Futurehouse Platform (2025)
